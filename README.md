@@ -1,8 +1,5 @@
 # Aryaman-Raj-Portfolio
 AI and Data Science Portfolio showcasing ML projects, full-stack development, and interactive web design.
-
-# 🚀 Aryaman Raj – AI Portfolio
-
 A modern and interactive **personal portfolio website** showcasing my work in
 **Artificial Intelligence, Data Science, and Full Stack Development**.
 
