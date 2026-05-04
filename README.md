@@ -97,6 +97,7 @@ index.html
  Phone: **8603094904**
 
  GitHub: https://github.com/Aryaman1024
+ 
  LinkedIn: https://www.linkedin.com/in/aryaman-raj-3922192b4/
 
 ---
