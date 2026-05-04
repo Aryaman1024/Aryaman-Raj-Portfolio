@@ -94,11 +94,12 @@ index.html
 ## Contact
 
  Email: **[arymanraj1720@gmail.com](mailto:arymanraj1720@gmail.com)**
- Phone: **8603094904**
 
  GitHub: https://github.com/Aryaman1024
  
  LinkedIn: https://www.linkedin.com/in/aryaman-raj-3922192b4/
+
+ Phone: **8603094904**
 
 ---
 
